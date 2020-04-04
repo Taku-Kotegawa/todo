@@ -14,6 +14,9 @@
         <setting name="jdbcTypeForNull" value="NULL" />
         <setting name="localCacheScope" value="STATEMENT" />
 -->
+        <!-- mapで受け取った時にNULLを受け取るようにする -->
+        <setting name="callSettersOnNulls" value="true" />
+
     </settings>
 
     <typeAliases>
