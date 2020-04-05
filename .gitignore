@@ -1,7 +1,3 @@
 /.idea/
 *.iml
-/todo-web/target/
-/todo-selenium/target/
-/todo-initdb/target/
-/todo-env/target/
-/todo-domain/target/
+target/
